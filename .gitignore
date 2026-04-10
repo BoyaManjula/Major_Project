@@ -1,0 +1,10 @@
+uploads/
+venv/
+__pycache__/
+.gradio/
+*.zip
+*.pdf
+*.mp4
+*.jpg
+*.jpeg
+.env
